@@ -1,0 +1,138 @@
+Character File:
+	Name: Nicholas Lages
+	Species: Dwarf
+	Class: *Ranger
+	Base Stats:
+	  Strength: 4
+	  Dexterity: 3
+	  Constitution: 1
+	  Inteligence: 4
+	  Wisdom: 3
+	  Charisma: 0
+	Rolled Stats:
+	  Strength: 2
+	  Dexterity: 2
+	  Constitution: 6
+	  Inteligence: 2
+	  Wisdom: 3
+	  Charisma: 2
+	Weapon(s):
+	  Bow
+	    Damage: 1d8
+	    Range: 8
+	    Attacks per turn: 2
+Character File:
+	Name: Nicholas Lages
+	Species: Orc
+	Class: Warrior
+	Base Stats:
+	  Strength: 6
+	  Dexterity: 0
+	  Constitution: 6
+	  Inteligence: 0
+	  Wisdom: 0
+	  Charisma: 3
+	Rolled Stats:
+	  Strength: 2
+	  Dexterity: 2
+	  Constitution: 4
+	  Inteligence: 4
+	  Wisdom: 6
+	  Charisma: 3
+	Weapon(s):
+	  Club
+	    Damage: 2d12
+	    Range: 2
+	    Attacks per turn: 2
+Character File:
+	Name: Bidscota Wanirb
+	Species: Elf
+	Class: Wizard
+	Base Stats:
+	  Strength: 2
+	  Dexterity: 2
+	  Constitution: 2
+	  Inteligence: 4
+	  Wisdom: 6
+	  Charisma: -1
+	Rolled Stats:
+	  Strength: 1
+	  Dexterity: 6
+	  Constitution: 2
+	  Inteligence: 1
+	  Wisdom: 4
+	  Charisma: 1
+	Weapon(s):
+	  Dagger
+	    Damage: 3d4
+	    Range: 1
+	    Attacks per turn: 3
+Character File:
+	Name: Winston Lages
+	Species: Human
+	Class: Cleric
+	Base Stats:
+	  Strength: 3
+	  Dexterity: 1
+	  Constitution: 3
+	  Inteligence: 2
+	  Wisdom: 3
+	  Charisma: 2
+	Rolled Stats:
+	  Strength: 6
+	  Dexterity: 2
+	  Constitution: 2
+	  Inteligence: 1
+	  Wisdom: 1
+	  Charisma: 6
+	Weapon(s):
+	  Dagger
+	    Damage: 3d4
+	    Range: 1
+	    Attacks per turn: 3
+Character File:
+	Name: Alex L
+	Species: Human
+	Class: Warrior
+	Base Stats:
+	  Strength: 4
+	  Dexterity: 1
+	  Constitution: 2
+	  Inteligence: 2
+	  Wisdom: 1
+	  Charisma: 5
+	Rolled Stats:
+	  Strength: 1
+	  Dexterity: 6
+	  Constitution: 5
+	  Inteligence: 1
+	  Wisdom: 1
+	  Charisma: 6
+	Weapon(s):
+	  Bow
+	    Damage: 1d8
+	    Range: 8
+	    Attacks per turn: 2
+Character File:
+	Name: Alessa L
+	Species: Goblin
+	Class: Wizard
+	Base Stats:
+	  Strength: 1
+	  Dexterity: 5
+	  Constitution: 0
+	  Inteligence: 3
+	  Wisdom: 2
+	  Charisma: 4
+	Rolled Stats:
+	  Strength: 5
+	  Dexterity: 6
+	  Constitution: 2
+	  Inteligence: 4
+	  Wisdom: 6
+	  Charisma: 2
+	Weapon(s):
+	  Dagger
+	    Damage: 3d4
+	    Range: 1
+	    Attacks per turn: 4
